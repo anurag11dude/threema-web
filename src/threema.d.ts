@@ -632,7 +632,7 @@ declare namespace threema {
         SALTYRTC_LOG_LEVEL: saltyrtc.LogLevel;
         ICE_SERVERS: RTCIceServer[];
         PUSH_URL: string;
-        DEBUG: boolean;
+        VERBOSE_DEBUGGING: boolean;
         MSG_DEBUGGING: boolean;
         MSGPACK_DEBUGGING: boolean;
         ICE_DEBUGGING: boolean;
